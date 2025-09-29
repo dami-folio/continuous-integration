@@ -5,5 +5,6 @@ def inverter(number):
     if isinstance(number, int) or isinstance(number, float) == True:
         newNumber = number * -1
         return newNumber
+        print("hi")
     else:
         return "invalid input"
