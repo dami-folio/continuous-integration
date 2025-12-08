@@ -7,4 +7,4 @@ def inverter(number):
         return newNumber
         print("hi")
     else:
-        return "invalid input!"
+        return "invalid input"
